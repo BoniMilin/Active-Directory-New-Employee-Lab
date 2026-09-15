@@ -128,6 +128,8 @@ Resource Permission
 
 c:\Users\bonib\OneDrive\Desktop\GitHub\Active Directory Labs\Active-Directory-NewStarter-Lab\screenshots\03-security-group-creation.png
 
+Active-Directory-NewStarter-Lab\screenshots\03-security-group-creation.png
+
 ---
 
 # Part 4 – Testing the Domain Workstation
