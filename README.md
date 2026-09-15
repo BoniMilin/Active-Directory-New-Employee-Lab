@@ -71,7 +71,7 @@ Using OUs makes it easier to manage users, computers, permissions, and Group Pol
 
 ### Screenshot
 
-c:\Users\bonib\OneDrive\Desktop\GitHub\Active Directory Labs\Active-Directory-NewStarter-Lab\screenshots\01-ou-structure.png
+![alt text](screenshots/01-ou-structure.png)
 ---
 
 # Part 2 – Creating the User
@@ -90,7 +90,7 @@ This is a common security practice during employee onboarding.
 
 ### Screenshot
 
-C:\Users\bonib\OneDrive\Desktop\GitHub\Active Directory Labs\Active-Directory-NewStarter-Lab\screenshots\02-user-creation.png
+![alt text](screenshots/02-user-creation.png)
 
 ---
 
@@ -126,9 +126,8 @@ Resource Permission
 
 ### Screenshot
 
-c:\Users\bonib\OneDrive\Desktop\GitHub\Active Directory Labs\Active-Directory-NewStarter-Lab\screenshots\03-security-group-creation.png
+![alt text](screenshots/03-security-group-creation.png)
 
-Active-Directory-NewStarter-Lab\screenshots\03-security-group-creation.png
 
 ---
 
@@ -170,10 +169,9 @@ gpresult /r
 
 ### Screenshot
 
-```text
-screenshots/03-security-group-creation.png
-screenshots/12-gpresult.png
-```
+![alt text](screenshots/10-event-operations-gpo-P1.png)
+![alt text](screenshots/11-event-operations-gpo-setting.png)
+![alt text](screenshots/12-gpresult.png)
 
 ---
 
